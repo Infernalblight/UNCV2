@@ -1,6 +1,4 @@
---#[[ UNC V2 ENVIRONMENT CHECK ]]#--
---#[[ contact @norby.dev_ on discord if there are any issues present ]]#--
---#[[ Special thanks to vxsty for printidentity check and the synapse x team for debug function check ]]#--
+
 local passes, fails, undefined, running, cclosureamount, lclosureamount = 0, 0, 0, 0, 0, 0
 
 local function getGlobal(path)
